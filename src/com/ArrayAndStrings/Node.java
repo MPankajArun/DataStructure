@@ -22,6 +22,7 @@ public class Node{
         lst.append(44);
         lst.prepend(55);
         lst.InsertAtNthPosition(66,3);
+        //lst.
 
         lst.display();
 
