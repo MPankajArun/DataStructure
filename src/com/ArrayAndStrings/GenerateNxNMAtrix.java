@@ -81,6 +81,7 @@ public class GenerateNxNMAtrix {
                 }
                 else{
                     dp[i][j] = rand;
+
                 }
             }
         }
